@@ -1,0 +1,10 @@
+/home/runyu/tests/helloworld_newriver
+/opt/torque/torque/spool/aux//132927.master.cluster
+/opt/torque/torque/spool/aux//132927.master.clustergpu
+132927.master.cluster
+2
+/home/runyu
+/work/newriver/runyu
+/scratch-local/132927.master.cluster/tmpfs
+/scratch-local/132927.master.cluster
+Hello world from new river!
